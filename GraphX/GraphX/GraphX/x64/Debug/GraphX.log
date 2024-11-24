@@ -1,0 +1,18 @@
+﻿  GraphX.cpp
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+GraphX.obj : error LNK2001: неразрешенный внешний символ glad_glDrawArrays.
+GraphX.obj : error LNK2001: неразрешенный внешний символ glad_glBindBuffer.
+GraphX.obj : error LNK2001: неразрешенный внешний символ glad_glGenBuffers.
+GraphX.obj : error LNK2001: неразрешенный внешний символ glad_glBufferData.
+GraphX.obj : error LNK2001: неразрешенный внешний символ glad_glAttachShader.
+GraphX.obj : error LNK2001: неразрешенный внешний символ glad_glCompileShader.
+GraphX.obj : error LNK2001: неразрешенный внешний символ glad_glCreateProgram.
+GraphX.obj : error LNK2001: неразрешенный внешний символ glad_glCreateShader.
+GraphX.obj : error LNK2001: неразрешенный внешний символ glad_glDeleteShader.
+GraphX.obj : error LNK2001: неразрешенный внешний символ glad_glEnableVertexAttribArray.
+GraphX.obj : error LNK2001: неразрешенный внешний символ glad_glLinkProgram.
+GraphX.obj : error LNK2001: неразрешенный внешний символ glad_glShaderSource.
+GraphX.obj : error LNK2001: неразрешенный внешний символ glad_glUseProgram.
+GraphX.obj : error LNK2001: неразрешенный внешний символ glad_glValidateProgram.
+GraphX.obj : error LNK2001: неразрешенный внешний символ glad_glVertexAttribPointer.
+C:\Users\aheon\source\repos\GraphX\GraphX\x64\Debug\GraphX.exe : fatal error LNK1120: неразрешенных внешних элементов: 15
